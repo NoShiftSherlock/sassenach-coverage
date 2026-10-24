@@ -15,5 +15,7 @@ Sources, all 2026-10-24:
   delivery ZIPs, so reach and metros are a floor. Geo and ZIPs from the 2026-06-17 BigQuery snapshot.
 - Retailer network: AccelPay/LiquidCommerce retailer catalog, synced 2026-10-24, cross-checked
   against the retailer inventory sheets. A store counts as in stock only if it shows stock on hand
-  (142 stores); 213 list at least one Sassenach product.
+  (141 stores); 210 list at least one Sassenach product.
 - DoorDash was not measured.
+
+Three retailers are excluded from all counts on purpose (Josh, 2026-10-24).
